@@ -1,36 +1,32 @@
-Sutter
+Hello World! 👋
 
-<p align="center">
-  <i>learning • building • improving</i>
-</p>---
+👨‍💻 About Me
 
-about me
+I'm Sutter, a programming student focused on learning and improving every day.
 
-I'm Sutter.
+I started learning programming with Python and I'm currently working on my logic, building projects and understanding how things work behind the code.
 
-learning Python and programming
-building small projects
-improving my logic every day
+I use GitHub to document my progress and share the projects I build along the way.
 
-currently learning
+🧠 My Knowledge
+
+- Python
+- Programming Logic
+- Git & GitHub
+- JSON
+- SQLite
+
+📚 Currently Studying
 
 - Python
 - Backend Development
 - SQL
-- Git & GitHub
+- Flask
 
-my journey
+🚀 My Goal
 
-Python
-   ↓
-Programming Logic
-   ↓
-Backend
-   ↓
-Projects
+Keep learning, build better projects and become a better developer one step at a time.
 
 ---
 
-<p align="center">
-  <i>「 one step at a time. 」</i>
-</p>
+"The best way to learn is to build."
