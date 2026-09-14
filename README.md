@@ -1,54 +1,36 @@
 Sutter
 
-Backend Developer | Python | Cybersecurity
+<p align="center">
+  <i>learning • building • improving</i>
+</p>---
 
----
+about me
 
-About Me
+I'm Sutter.
 
-I'm a developer focused on learning, building projects and understanding how systems work.
+learning Python and programming
+building small projects
+improving my logic every day
 
-Currently studying:
+currently learning
 
 - Python
 - Backend Development
-- Computer Networks
-- Cybersecurity
-- Databases
-- Programming Logic
-
-Technologies
-
-Languages
-
-- Python
-
-Backend
-
-- Flask
-- REST APIs
-
-Database
-
-- SQLite
 - SQL
+- Git & GitHub
 
-Tools
+my journey
 
-- Git
-- GitHub
-- Linux
-
-Current Focus
-
-Python → Backend → Databases → APIs → Cybersecurity
-
-I'm currently focused on improving my programming logic and turning what I learn into real projects.
-
+Python
+   ↓
+Programming Logic
+   ↓
+Backend
+   ↓
 Projects
-
-Projects coming soon.
 
 ---
 
-«Learn. Build. Understand.»
+<p align="center">
+  <i>「 one step at a time. 」</i>
+</p>
