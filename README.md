@@ -6,7 +6,7 @@
 
 #
 
-Eu me chamo Erick, tenho 13 anos e sou estudante de programação. Atualmente estudo desenvolvimento de software, com foco em Python e desenvolvimento Back-End. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir cada vez mais na programação.
+Me chamo Erick, tenho 13 anos e sou estudante de programação. Atualmente estudo desenvolvimento de software, com foco em Python e desenvolvimento Back-End. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir cada vez mais na programação.
 
 #
 
@@ -18,20 +18,6 @@ Eu me chamo Erick, tenho 13 anos e sou estudante de programação. Atualmente es
 
 
 <h3 align="left">My Stack ~</h3>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-<h3 align="left">Languages</h3>
 
 <img 
     align="left" 
