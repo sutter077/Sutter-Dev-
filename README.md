@@ -10,7 +10,7 @@ Me chamo Erick, tenho 13 anos e sou estudante de programação. Atualmente estud
 
 #
 
-<img align="right" alt="Kaneki" height="190px" src="https://giffiles.alphacoders.com/351/35117.gif">
+<img align="right" alt="Thorfinn" height="190px" src="https://media1.tenor.com/m/PosEPrSNOoIAAAAd/thorfinn-vinland-saga.gif">
 
 <h3 align="left">Connect with me!</h3>
 
