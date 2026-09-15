@@ -10,7 +10,7 @@ Me chamo Erick, tenho 13 anos e sou estudante de programação. Atualmente estud
 
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="Kaneki" height="190px" src="./src/kaneki.gif">
 
 <h3 align="left">Connect with me!</h3>
 
