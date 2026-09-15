@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𖤐 S U T T E R
+# 𖤐 E R I C K DEV
 
 ### `turning ideas into code`
 
